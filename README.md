@@ -34,4 +34,6 @@
 
 ## Future Plans
 
-We are working on streamlining the zips based function flow with a single CLI command!
+[We have streamlined the zips based function flow with a single CLI command!](https://www.netlify.com/docs/cli/#unbundled-javascript-function-deploys)
+
+Check out the underlying library: https://github.com/netlify/zip-it-and-ship-it
